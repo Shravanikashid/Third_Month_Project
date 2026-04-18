@@ -1,11 +1,11 @@
 INSIGHTS
 
-with high monthly charges churn more.
+*with high monthly charges churn more.
 
-Long tenure customers churn less.
+*Long tenure customers churn less.
 
-Month-to-month contracts have higher churn.
+*Month-to-month contracts have higher churn.
 
-New customers are more likely to leave.
+*New customers are more likely to leave.
 
-Fiber users show higher churn.
+*Fiber users show higher churn.
